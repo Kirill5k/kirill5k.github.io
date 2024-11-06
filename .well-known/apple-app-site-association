@@ -8,7 +8,7 @@
         "appID": "4N56VF6H52.com.github.kirill5k.spendsync",
         // All paths that should support redirecting.
         /* @info Replace <CODE>/records/*</CODE> with your own path. */
-        "paths": ["/records/*"]
+        "paths": ["/", "/auth/signin", "/auth/*"]
       }
     ]
   },
